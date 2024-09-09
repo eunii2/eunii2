@@ -1,4 +1,5 @@
-<a href="https://github.com/eunii2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=eunii2&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,9abed9,e3ddee&title_color=fff&text_color=fff&icon_color=fff" alt="GAEUN's github stats" /></a>
+![GAEUN's github stats](https://github-readme-stats.vercel.app/api?username=eunii2&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,9abed9,e3ddee&title_color=fff&text_color=fff&icon_color=fff&count_private=true&token=YOUR_GITHUB_TOKEN)
+
 <a href="https://github.com/eunii2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunii2&layout=compact&hide_border=true&bg_color=30,e3ddee,9abed9&title_color=fff&text_color=fff&icon_color=fff&hide=,javascript,scss,css,ejs,html" /></a> 
 
 <!--
