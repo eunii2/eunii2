@@ -1,4 +1,4 @@
-<h3>🛠️ Tech Stacks</h3>
+<h2>🛠️ Tech Stacks</h3>
     <div style="margin: 0 auto;">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -23,12 +23,12 @@
     </div>
 <br>
 
-### 💼 Projects
+## 💼 Projects
 
 <br>
 <br>
 
-### 🏆 Awards
+## 🏆 Awards
 - **2024 공개 SW 개발자 대회**
   - 본선 진출 및 우수작 선정 (과학기술정보통신부 주최, 정보통신산업진흥원 주관) (2024.11)
 - **2024 스마트&디지털 페스티벌**
@@ -38,7 +38,7 @@
 
 <br>
 
-<h3>📊 Contribution Graph</h3>
+<h2>📊 Contribution Graph</h3>
 <div align="center">
     <picture>
         <source
@@ -59,7 +59,7 @@
 
 <br>
 
-### 📫 Contact
+## 📫 Contact
 
 - **Email :** chb7562@gmail.com
 - **Blog :** [eunii's velog](https://velog.io/@eunii2/posts)
