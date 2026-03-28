@@ -44,7 +44,7 @@
 <div align="center">
     <picture>
         <source
-            srcset="https://github-readme-activity-graph.vercel.app/graph?username=eunii2&theme=react-dark&hide_border=true&bg_color=0d1117&line=58a6ff&color=c9d1d9&point=ffffff"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=eunii2&theme=react-dark&hide_border=true&bg_color=transparent&line=58a6ff&color=c9d1d9&point=ffffff"
             media="(prefers-color-scheme: dark)"
         />
         <source
