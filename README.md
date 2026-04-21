@@ -153,4 +153,4 @@
 
 - **Email :** chb7562@gmail.com
 
-- **Blog :** [eunii's velog](https://velog.io/@eunii2/posts)
+- **Blog :** [eunii's tistory]([https://velog.io/@eunii2/posts](https://eunisme.tistory.com/))
